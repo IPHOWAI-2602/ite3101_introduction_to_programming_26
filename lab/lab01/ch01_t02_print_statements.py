@@ -1,2 +1,1 @@
-print"Hello World!"  # Python2
-# Python3
+print "Hello, World!"
