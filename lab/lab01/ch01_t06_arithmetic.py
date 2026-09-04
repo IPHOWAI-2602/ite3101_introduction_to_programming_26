@@ -1,2 +1,2 @@
 product = 5 * 10
-remainder=127
+remainder = 1398 % 11
