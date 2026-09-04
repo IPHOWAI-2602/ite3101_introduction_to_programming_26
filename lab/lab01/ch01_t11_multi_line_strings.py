@@ -1,2 +1,1 @@
-haiku=
-haiku=
+haiku=The old pond, 
