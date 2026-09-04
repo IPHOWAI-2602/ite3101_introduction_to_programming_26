@@ -1,2 +1,2 @@
 product=123*123
-remainder=
+remainder=127
