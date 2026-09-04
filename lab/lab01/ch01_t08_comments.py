@@ -1,1 +1,1 @@
-CITY_POOR = 13
+CITY_POP = 13
