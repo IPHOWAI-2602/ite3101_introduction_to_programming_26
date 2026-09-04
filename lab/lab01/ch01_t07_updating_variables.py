@@ -1,4 +1,4 @@
-September_to_December_ annual_rainfal = 1.93 + 0.71 + 3.53 + 3.41 + 3.69 + 4.50
+annual_rainfall = 1.93 + 0.71 + 3.53 + 3.41 + 3.69 + 4.50 + 4.50
 annual_rainfall = September_to_December_rainfall
 
 September_rainfall = 1.05
