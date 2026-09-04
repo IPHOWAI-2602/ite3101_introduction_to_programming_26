@@ -1,2 +1,2 @@
 skill_completed="Python Syntax"
-xercises_completed
+xercises_completed=13
