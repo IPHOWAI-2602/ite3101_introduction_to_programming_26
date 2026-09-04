@@ -1,3 +1,4 @@
 float_1 = 0.25
 float_2 = 40.0
-print(" product" + str(age) + " years old!")
+
+t(" product" + str(age) + " years old!")
