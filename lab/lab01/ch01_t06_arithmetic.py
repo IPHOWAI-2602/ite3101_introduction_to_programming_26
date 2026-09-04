@@ -1,1 +1,1 @@
-product
+product=123*123
