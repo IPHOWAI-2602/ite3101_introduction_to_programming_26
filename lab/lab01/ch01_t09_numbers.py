@@ -1,4 +1,4 @@
-cucumbers = 10
+cucumbers = 100
 price_per_cucumber = 10
 total_cost = cucumbers * price_per_cucumber
-print(total_cost=100)
+print(total_cost)
