@@ -1,3 +1,6 @@
 cucumbers=100.0
 num_people=6.0
 whole_cucumbers_per_person=cucumbers/num_people
+cucumbers=100
+num_people=6
+whole_cucumbers_per_person=cucumbers/num_people
