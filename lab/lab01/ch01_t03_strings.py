@@ -1,1 +1,1 @@
-prints("Hello")
+print("This is " + "a good string")
