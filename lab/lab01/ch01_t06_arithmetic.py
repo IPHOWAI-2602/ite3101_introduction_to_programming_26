@@ -1,2 +1,2 @@
-product=123*123
+product = 5 * 10
 remainder=127
