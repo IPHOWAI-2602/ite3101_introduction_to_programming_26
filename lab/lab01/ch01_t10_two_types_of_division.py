@@ -1,1 +1,1 @@
-cucumbers=100
+cucumbers=100/6
