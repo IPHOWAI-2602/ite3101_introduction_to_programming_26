@@ -1,2 +1,1 @@
-city_name = "St"
-city_pop = 340000
+row_count = 13
