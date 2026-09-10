@@ -1,3 +1,3 @@
 parrot = "Norwegian Blue"
 
-print(Call lower(Norwegian Blue))
+print(lower(Norwegian Blue))
