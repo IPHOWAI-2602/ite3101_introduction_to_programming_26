@@ -1,2 +1,2 @@
-parrot =
+parrot ="Norwegian Blue"
 print
