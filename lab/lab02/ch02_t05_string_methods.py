@@ -1,1 +1,1 @@
-print="Norwegian Blue"
+print
