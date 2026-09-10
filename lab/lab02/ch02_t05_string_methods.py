@@ -1,2 +1,2 @@
-parrot ="Norwegian Blue"
-print=(Norwegian Blue)
+parrot = "Norwegian Blue"
+print = (Norwegian Blue)!
