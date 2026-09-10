@@ -1,2 +1,2 @@
-brian = "Hello life!"
+brian = "hello life!"
 
