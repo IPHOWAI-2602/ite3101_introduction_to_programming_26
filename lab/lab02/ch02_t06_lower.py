@@ -1,3 +1,2 @@
 parrot = "Norwegian Blue"
-
-print(lower(parrot))
+print(parrot.lower())
