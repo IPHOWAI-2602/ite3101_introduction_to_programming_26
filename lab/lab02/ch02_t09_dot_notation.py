@@ -1,4 +1,3 @@
 ministry = "The Ministry of Silly Walks"
-
-print()
-print()
+print(len(ministry))
+print(ministry.upper())
