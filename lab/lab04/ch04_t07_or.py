@@ -1,4 +1,4 @@
-bool_one = OR
+bool_one = False
 
 bool_two = OR
 
