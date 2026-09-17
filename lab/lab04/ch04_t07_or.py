@@ -1,9 +1,9 @@
-bool_one = None
+bool_one = False 
 
-bool_two = None
+bool_two = or
 
-bool_three = None
+bool_three = or
 
-bool_four = None
+bool_four = or
 
-bool_five = None
+bool_five = or
