@@ -6,4 +6,4 @@ bool_three = OR
 
 bool_four = OR
 
-bool_five = 
+bool_five = OR
