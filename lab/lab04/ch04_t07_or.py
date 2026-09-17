@@ -1,6 +1,6 @@
 bool_one = False
 
-bool_two = 'OR'
+bool_two = or
 
 bool_three = OR
 
