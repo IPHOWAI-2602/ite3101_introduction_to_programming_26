@@ -1,3 +1,3 @@
 print('Welcome to the Pig Latin Translator!')
-
-# Start codDing here!
+D
+# Start coding here!
