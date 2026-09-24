@@ -4,5 +4,7 @@
 
 
 # Define the spam function above this line.
-def spam("Eggs!")
-print("Eggs!")
+def spam(text):
+    print(text)
+
+spam("Eggs!")
