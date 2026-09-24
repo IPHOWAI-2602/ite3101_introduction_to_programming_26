@@ -1,1 +1,1 @@
-Print(Pig Lati)
+Print(Pig Latin)
