@@ -8,3 +8,4 @@ else:
     print('empty')
 
 work=work.lower()
+frist=frist(0)
