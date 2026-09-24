@@ -1,3 +1,3 @@
 print('Welcome to the Pig Latin Translator!')
 
-input("Enter a word: ")
+original=input("Enter a word: ")
