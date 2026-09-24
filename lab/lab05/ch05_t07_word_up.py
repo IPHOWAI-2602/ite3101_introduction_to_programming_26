@@ -8,5 +8,4 @@ if len(original) > 0 and original.isalpha():
 else:
     print('empty')
 
-work = work.lower()
-frist = frist[0]
+
