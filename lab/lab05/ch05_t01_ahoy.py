@@ -1,0 +1,1 @@
+Print = 'Pig Latin'
