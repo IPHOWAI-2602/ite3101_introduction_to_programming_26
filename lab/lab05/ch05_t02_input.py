@@ -1,3 +1,3 @@
 print('Welcome to the Pig Latin Translator!')
 
-name =input
+name=input('Welcome to the Pig Latin Translator!')
