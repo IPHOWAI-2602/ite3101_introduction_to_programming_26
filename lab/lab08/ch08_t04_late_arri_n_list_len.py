@@ -1,5 +1,5 @@
 suitcase = []
-suitcase.append("sunglasses")
+suitcase.append("sunglasses,bathing suit, T-shirt, Jacket")
 
 # Your code here!
 
