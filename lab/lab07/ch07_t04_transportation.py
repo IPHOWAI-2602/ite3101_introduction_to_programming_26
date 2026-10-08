@@ -12,7 +12,7 @@ def plane_ride_cost(city: str) -> int:
     elif city == "Los Angeles":
         return 475
     
-def finish_game(score): 
+def rental_car_cost(score): 
   tickets = 10 * score 
   if score >= 10: 
     tickets += 50 
