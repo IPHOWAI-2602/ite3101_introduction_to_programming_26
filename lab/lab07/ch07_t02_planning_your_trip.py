@@ -1,3 +1,3 @@
-def wages(hours): 
+def hotel_cost(hours): 
   # If I make $8.35/hour... 
   return 8.35 * hours
