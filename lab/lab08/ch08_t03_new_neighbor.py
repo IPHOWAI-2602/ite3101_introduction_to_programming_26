@@ -1,4 +1,4 @@
-zoo_animals = ["pangolin", "cassowary", "sloth", "tiger"]
+zoo_animals = ["pangolin", "cassowary", "sloth", "pig"]
 # Last night our zoo's sloth brutally attacked
 # the poor tiger and ate it whole.
 
