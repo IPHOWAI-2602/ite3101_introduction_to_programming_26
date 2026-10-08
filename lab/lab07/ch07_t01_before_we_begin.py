@@ -1,1 +1,2 @@
-print(max(first, second))
+def answer():
+    return 42
