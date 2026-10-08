@@ -1,3 +1,3 @@
 def hotel_cost(nights): 
   # If I make $8.35/hour... 
-  return 8.35 * hours
+  return 140 * hours
