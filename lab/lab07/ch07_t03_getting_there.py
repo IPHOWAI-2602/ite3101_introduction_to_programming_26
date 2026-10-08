@@ -8,4 +8,4 @@ def fruit_color(fruit):
   elif fruit == "Pittsburgh": 
     return "222"
   elif fruit == "Los Angeles": 
-    return
+    return 
