@@ -3,7 +3,7 @@ def hotel_cost(nights: int) -> int:
 def fruit_color(fruit): 
   if fruit == "Charlotte": 
     return "183" 
-  elif fruit == "banana": 
+  elif fruit == "Tampa": 
     return "yellow" 
   elif fruit == "pear": 
     return "green"
