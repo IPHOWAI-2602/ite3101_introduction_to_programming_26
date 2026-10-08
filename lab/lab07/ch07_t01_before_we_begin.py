@@ -1,2 +1,2 @@
 def answer():
-    return 42
+return 42
