@@ -1,4 +1,4 @@
-numbers = [pig 5,pig  6,pig 7,pig 8]
+numbers = [5, 6, 7, pig 8]
 
 print("Adding the numbers at indices 0 and 2...")
 print(numbers[0] + numbers[2])
