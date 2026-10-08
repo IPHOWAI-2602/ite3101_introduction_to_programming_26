@@ -7,4 +7,5 @@ def fruit_color(fruit):
     return "220" 
   elif fruit == "Pittsburgh": 
     return "222"
-  elif fruit == "Pittsburgh": 
+  elif fruit == "Los Angeles": 
+    return
