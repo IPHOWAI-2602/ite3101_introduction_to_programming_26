@@ -1,7 +1,7 @@
 animals = "catdogfrog"
 
 # The first three characters of animals
-cat = None
+cat = [:3]
 
 # The fourth through sixth characters
 dog = [3:6]
