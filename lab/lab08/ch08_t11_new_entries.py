@@ -6,5 +6,6 @@ print(menu['Chicken Alfredo'])
 menu{"Icecream"}=3
 menu{"Spam"}=2.5
 
+
 print("There are " + str(len(menu)) + " items on the menu.")
 print(menu)
