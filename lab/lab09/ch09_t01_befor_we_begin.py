@@ -1,2 +1,2 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
-for name in [1, 3, 21]: 
+for name in [Adam, 3, 21]: 
