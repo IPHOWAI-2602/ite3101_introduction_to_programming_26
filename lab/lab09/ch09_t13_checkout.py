@@ -2,7 +2,6 @@ from typing import List
 shopping_list = ["banana", "orange"]
 result = compute_bill(shopping_list)
 
-# 2. 印出你的結果 (預期會是 5.5)
 print(result)
 # The following 3 lines of codes are for UnitTest and you don't need them for your real applications!
 global shopping_list
