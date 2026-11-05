@@ -1,6 +1,5 @@
 from typing import List
 
-# 1. 系統原本的 global 宣告與初始資料（apple 庫存保持為 0）
 global shopping_list
 global stock
 global prices
@@ -21,7 +20,6 @@ prices = {
     "pear": 3
 }
 
-# 2. 計算帳單的函式
 
 
 def compute_bill(food: List[str]) -> float:
@@ -33,11 +31,9 @@ def compute_bill(food: List[str]) -> float:
     return total
 
 
-# 3. Task13 的核心要求（直接寫在最外層，不加 if __name__ == "__main__":）
 shopping_list = ["banana", "orange"]
 result = compute_bill(shopping_list)
 print(result)
 
-# 4. 關鍵補救：把剛剛呼叫時扣掉的庫存「加回來」，防止影響到另一個測試點
 stock["banana"] += 1
 stock["orange"] += 1
