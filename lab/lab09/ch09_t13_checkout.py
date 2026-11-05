@@ -13,7 +13,6 @@ stock = {
     "pear": 15
 }
 
-# 2. 之前寫好的計算函式
 def compute_bill(food):
     total = 0
     for item in food:
