@@ -1,6 +1,5 @@
 from typing import List
 
-shopping_list = ["banana", "orange", "apple"]
 # The following 3 lines of codes are for UnitTest and you don't need them for your real applications!
 global shopping_list
 global stock
@@ -31,6 +30,3 @@ def compute_bill(food: List[str]) -> float:
             total += prices[item]
             stock[item] -= 1
     return total
-
-result = compute_bill(shopping_list)
-print(result)
