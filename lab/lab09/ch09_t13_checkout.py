@@ -1,4 +1,4 @@
-# 1. 之前的字典定義（確保資料存在）
+
 prices = {
     "banana": 4,
     "apple": 2,
@@ -22,7 +22,6 @@ def compute_bill(food):
             stock[item] -= 1
     return total
 
-# 3. Task13 的指定要求：購買 banana 與 orange 並印出結果
 shopping_list = ["banana", "orange"]
 result = compute_bill(shopping_list)
 print(result)
