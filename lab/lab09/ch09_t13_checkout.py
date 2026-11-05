@@ -1,14 +1,16 @@
 from typing import List
 
-# 保持 global 宣告在最上方避免語法錯誤
+shopping_list = ["banana", "orange", "apple"]
+# The following 3 lines of codes are for UnitTest and you don't need them for your real applications!
 global shopping_list
 global stock
 global prices
 
-# 修正：apple 的庫存改回 8
+shopping_list = ["banana", "orange", "apple"]
+
 stock = {
     "banana": 6,
-    "apple": 8,
+    "apple": 0,
     "orange": 32,
     "pear": 15
 }
@@ -20,10 +22,9 @@ prices = {
     "pear": 3
 }
 
-# 函式定義
 
-
-def compute_bill(food: list[str]) -> float:
+# Write your code below!
+def compute_bill(food: List[str]) -> float:
     total = 0
     for item in food:
         if stock[item] > 0:
@@ -31,9 +32,5 @@ def compute_bill(food: list[str]) -> float:
             stock[item] -= 1
     return total
 
-
-# 修正：用這個判斷式包住，測試系統才不會在 import 時不小心提早扣到庫存
-if __name__ == "__main__":
-    shopping_list = ["banana", "orange"]
-    result = compute_bill(shopping_list)
-    print(result)
+result = compute_bill(shopping_list)
+print(result)
