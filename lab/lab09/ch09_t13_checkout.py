@@ -1,11 +1,11 @@
 from typing import List
 
-# 關鍵修正：將 global 宣告移到最頂端，在所有變數賦值之前！
+# 保持 global 宣告在最上方避免語法錯誤
 global shopping_list
 global stock
 global prices
 
-# 初始化資料
+# 修正：apple 的庫存改回 8
 stock = {
     "banana": 6,
     "apple": 8,
@@ -32,7 +32,8 @@ def compute_bill(food: list[str]) -> float:
     return total
 
 
-# Task13 要求的購買清單與列印結果（放最底部）
-shopping_list = ["banana", "orange"]
-result = compute_bill(shopping_list)
-print(result)
+# 修正：用這個判斷式包住，測試系統才不會在 import 時不小心提早扣到庫存
+if __name__ == "__main__":
+    shopping_list = ["banana", "orange"]
+    result = compute_bill(shopping_list)
+    print(result)
