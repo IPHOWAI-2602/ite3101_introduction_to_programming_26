@@ -1,7 +1,7 @@
 number = 5
 
 
-def my_function(x: int) -> int:
+def my_function
     return x + 3
 
 
