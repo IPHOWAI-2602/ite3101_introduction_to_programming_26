@@ -5,3 +5,4 @@ def total(numbers):
     for item in numbers:
         result += item
     return result
+    print(n)
