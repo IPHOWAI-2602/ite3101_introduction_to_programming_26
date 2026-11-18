@@ -7,4 +7,5 @@ def total(numbers):
         result += item
     return result
 
-print(my_function(range(3))))  # Add your range between the parentheses!
+
+print(my_function(range(3)))  # Add your range between the parentheses!
