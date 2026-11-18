@@ -1,7 +1,5 @@
-n = [1, 3, 5]
-
+# 將第二個元素乘以 5
 n[1] = n[1] * 5
-print(n)
-# Do your multiplication here
 
+# 只印出一次
 print(n)
