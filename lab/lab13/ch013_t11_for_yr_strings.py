@@ -7,4 +7,4 @@ word = "eggs!"
 
 # Your code here!
 for c in word:
-print(word)
+print(c)
