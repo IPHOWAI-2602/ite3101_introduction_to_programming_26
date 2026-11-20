@@ -7,7 +7,6 @@ for i in range(5):
 
 def print_board(board_in):
     for row in board_in:
-        print(""join.row)
-
+        print("".row)
 
 print_board(board)
