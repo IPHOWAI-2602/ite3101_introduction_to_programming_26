@@ -12,7 +12,7 @@ if guesses=randam_number:
     print("You win!")
 break
 
- else: 
+else: 
     print("You lose.")
 
 # Start your game!
