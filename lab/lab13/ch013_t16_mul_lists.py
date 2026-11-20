@@ -5,6 +5,3 @@ for a, b in zip(list_a, list_b):
     # Add your code here!
     if a > b:
     print(max(a, b))
-else:
-    print(b)
-    pass
