@@ -1,8 +1,4 @@
-items = ["apple", "banana", "cherry"]
-for item in items:
-    if item == "tomato":
-        print("Found tomato!")
-   
-    print(item)
+for i in range(3):
+    print(i)
 else:
-    print("Loop finished without breaking!")
+    print("End")
