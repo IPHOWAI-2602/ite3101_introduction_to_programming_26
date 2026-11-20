@@ -1,3 +1,4 @@
+items = ["apple", "banana", "cherry"]
 for item in items:
     if item == "tomato":
         print("Found tomato!")
