@@ -7,4 +7,4 @@ for num in numbers:
 
 # Add your loop below!
 for num in numbers:
-    print(numbers**2)
+    print(number**2)
