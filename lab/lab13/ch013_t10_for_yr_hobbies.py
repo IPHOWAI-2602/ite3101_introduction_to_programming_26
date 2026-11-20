@@ -1,4 +1,4 @@
 hobbies = []
 for_in range(3):
-hobby
+hobby=input
 # Add your code below!
