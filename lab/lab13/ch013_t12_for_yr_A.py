@@ -6,6 +6,6 @@ for character in phrase:
     if char == "A" or char == "a"
 print('X')
 
-else:
+    else:
     # Don't delete this print statement!
 print(char,end=)
