@@ -10,5 +10,5 @@ guess = int(input("Your guess: "))
 if guesses=randam_number:
  else: 
     print("You win!")
-
+break
 # Start your game!
