@@ -3,6 +3,6 @@ phrase = "A bird in the hand..."
 # Add your for loop
 
 for character in phrase:
-if char==a
+if char=="a" 
     # Don't delete this print statement!
 print()
