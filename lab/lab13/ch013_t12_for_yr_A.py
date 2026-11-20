@@ -8,4 +8,4 @@ print('X')
 
 else:
     # Don't delete this print statement!
-print()
+print(char)
