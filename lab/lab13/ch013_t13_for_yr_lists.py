@@ -6,5 +6,5 @@ for num in numbers:
     print(num)
 
 # Add your loop below!
-for num in number:
+for num in numbers:
     print(number**2)
