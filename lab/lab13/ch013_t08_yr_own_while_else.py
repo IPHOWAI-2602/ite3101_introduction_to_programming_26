@@ -8,5 +8,7 @@ guesses_left = 3
 while count < 0: 
 guess = int(input("Your guess: "))
 if guesses=randam_number
+ else: 
+    print("You win!")
 
 # Start your game!
