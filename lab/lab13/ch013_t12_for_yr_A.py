@@ -4,7 +4,7 @@ phrase = "A bird in the hand..."
 
 for character in phrase:
 if char=="A" or char=="a"
-print
+print("X")
 else:
     # Don't delete this print statement!
 print()
