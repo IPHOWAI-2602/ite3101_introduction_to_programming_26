@@ -2,7 +2,7 @@ num = 1
 
 while False: # Fill in the condition
     pass
-while num<10
+while num<=10
 
 print(num**2)
 num += 1
