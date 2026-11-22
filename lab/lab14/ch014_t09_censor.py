@@ -1,2 +1,10 @@
 def censor(text, word):
-  return text.replace(word, "*" * len(word))
+  words = text.split()
+  stars = "*" * len(word)
+  result = []
+  for w in words:
+    if w == word:
+      result.append(stars)
+    else:
+      result.append(w)
+  return " ".join(result)
